@@ -1,0 +1,12 @@
+.card {
+    text-align: center;
+    width: 50%;
+    margin-left: 17rem;
+}
+
+input[type=text],
+input[type=password] {
+    text-align: center;
+    width: 70%;
+    margin-left: 5rem;
+}
